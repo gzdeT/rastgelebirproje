@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>bu benim ASP.NET projem.</h1>
+        <h1>bu benim ASP.NET projem. bu noktadan sonra 2. versiyon yarattık</h1>
         <p class="lead">biz burada git i öğreniyoruz</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
     </div>
